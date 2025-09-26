@@ -39,6 +39,4 @@ The analysis utilized two primary datasets:
     ```
 4.  Open the `crypto_analysis.ipynb` notebook in VS Code or Jupyter and run the cells.
 
-## Author
 
-[Your Name or GitHub Username]
